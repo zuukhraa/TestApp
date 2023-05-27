@@ -1,0 +1,3 @@
+Name:[Begin, Began, Begun]
+Zukhra:[1, 1, 1]
+Masha:[1, 0, 0]
