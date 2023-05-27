@@ -61,12 +61,14 @@ public class Test {
             if (answer1 == 1) {
                 countBegin++;
             }
+
             System.out.println("2) The movie, _ last year, is still in production");
             System.out.println("1. begin " + "" + "2. began " + "" + "3. begun");
             int answer2 = scanner.nextInt();
             if (answer2 == 3) {
                 countBegun++;
             }
+
             System.out.println("3) He _ by producing from under his arm a great letter, nearly as large as himself");
             System.out.println("1. begin " + "" + "2. began " + "" + "3. begun");
             int answer3 = scanner.nextInt();
